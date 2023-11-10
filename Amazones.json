@@ -1,20 +1,23 @@
-{
-  "Author": "Amazones",
-  "Name": "Amazones Plugin",
-  "InternalName": "Amazones",
-  "AssemblyVersion": "0.0.0.1",
-  "Description": "Open the main window using /amz",
-  "ApplicableVersion": "any",
-  "Tags": [
-    "player",
-    "venues",
-    "discord"
-  ],
-  "DalamudApiLevel": 9,
-  "LoadRequiredState": 0,
-  "LoadSync": false,
-  "CanUnloadAsync": false,
-  "LoadPriority": 0,
-  "Punchline": "A plugin for the wheel",
-  "AcceptsFeedback": true
-}
+[
+    {
+        "Author": "Amazones",
+        "Name": "Amazones",
+        "Description": "Amazones",
+        "InternalName": "Amazones",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/byteknown/Amazones",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "minigames",
+            "discord"
+        ],
+        "DalamudApiLevel": 9,
+        "DownloadLinkInstall": "https://github.com/byteknown/Amazones/raw/main/Amazones/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/byteknown/Amazones/raw/main/Amazones/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/byteknown/Amazones/raw/main/Amazones/latest.zip",
+        "LastUpdated": "10112023"
+    }
+
+]
