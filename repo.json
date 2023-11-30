@@ -5,18 +5,18 @@
         "Description": "Amazones",
         "InternalName": "Amazones",
         "AssemblyVersion": "1.0.0.2",
-        "RepoUrl": "https://github.com/byteknown/Amazones",
+        "RepoUrl": "https://github.com/byteknown/AmazonesStaff",
         "ApplicableVersion": "any",
         "Tags": [
             "minigames",
             "discord"
         ],
         "DalamudApiLevel": 9,
-        "DownloadLinkInstall": "https://github.com/byteknown/Amazones/raw/main/Amazones/latest.zip",
+        "DownloadLinkInstall": "https://github.com/byteknown/AmazonesStaff/raw/main/Amazones/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/byteknown/Amazones/raw/main/Amazones/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/byteknown/Amazones/raw/main/Amazones/latest.zip",
+        "DownloadLinkTesting": "https://github.com/byteknown/AmazonesStaff/raw/main/Amazones/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/byteknown/AmazonesStaff/raw/main/Amazones/latest.zip",
         "LastUpdated": "10112023"
     }
 
