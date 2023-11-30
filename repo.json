@@ -4,7 +4,7 @@
         "Name": "Amazones",
         "Description": "Amazones",
         "InternalName": "Amazones",
-        "AssemblyVersion": "1.0.0.2",
+        "AssemblyVersion": "2.0.0.0",
         "RepoUrl": "https://github.com/byteknown/AmazonesStaff",
         "ApplicableVersion": "any",
         "Tags": [
